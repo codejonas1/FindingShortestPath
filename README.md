@@ -1,7 +1,7 @@
 # FindingShortestPath
 
-Algoritms which finding shortest path and MST (Minimum Spaning Tree) in graph and matrix. 
+Algorithms which finding shortest path and MST (Minimum Spaning Tree) in graph and matrix. 
 
-Implemented algoritms:
+# Implemented algorithms:
 1. Kruskal MST
 2. Dijkstra
